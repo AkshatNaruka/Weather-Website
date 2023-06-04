@@ -1,16 +1,16 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
-    background: #222;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
-    font-size: 120%;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: #222;
+  background-image: url('https://source.unsplash.com/random/1600x900/?nature');
+  font-size: 120%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   
   .card {
     background: #000000d0;
